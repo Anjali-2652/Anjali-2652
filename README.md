@@ -1,7 +1,6 @@
 # Hi, I'm Anjali Gupta 👋
 
 🌱 Passionate about building web applications with React.js & Django  
-💻 Currently working on: Ride-sharing project for Janakpurdham  
 🎯 Goals: Full-stack development | Clean UI/UX | Scalable backend  
 📫 Contact me: guptaanjali2651@gmail.com
 
