@@ -2,7 +2,7 @@
 
 🌱 Passionate about building web applications with React.js & Django  
 🎯 Goals: Full-stack development | Clean UI/UX | Scalable backend  
-📫 Contact me: guptaanjali2651@gmail.com
+📫 email: guptaanjali2651@gmail.com
 
 ## 🚀 Tech Stack
 - 💻 Frontend: React.js, Tailwind CSS, HTML, CSS
