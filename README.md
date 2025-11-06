@@ -3,6 +3,7 @@
 🌱 Passionate about building web applications with React.js & Django  
 🎯 Goals: Full-stack development | Clean UI/UX | Scalable backend  
 📫 email: guptaanjali2651@gmail.com
+🖇️ linkedIn: https://www.linkedin.com/in/anjali-gupta-671a66286
 
 ## 🚀 Tech Stack
 - 💻 Frontend: React.js, Tailwind CSS, HTML, CSS
