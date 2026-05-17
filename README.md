@@ -1,14 +1,14 @@
 # Hi, I'm Anjali Gupta 👋
 
-🌱 Passionate about building web applications with React.js & Django  
-🎯 Goals: Full-stack development | Clean UI/UX | Scalable backend  
+🌱 Passionate about building web and mobile applications and diving in the world of AI 
+🎯 Goals: Full-stack development | Clean UI | Scalable backend | Generative AI
 📫 email: guptaanjali2651@gmail.com
 🖇️ linkedIn: https://www.linkedin.com/in/anjali-kumari-gupta/
 
 ## 🚀 Tech Stack
 - 🌐 Language: JavaScript, Python, C, C++
-- 💻 Frontend: React.js, Tailwind CSS, HTML, CSS, React Native
-- 🔧 Backend: Django, Django REST Framework, NodeJs, ExpressJs
+- 💻 Frontend:  HTML, CSS, React.js, Tailwind CSS, Next.js,  React Native
+- 🔧 Backend: Django, Django REST Framework, Node.js, Express.js
 - 🛢️ Database: MySQL, SQLite, MongoDB
 - 🤖 AI: GenAI
 - ⚙️ Tools: Git, GitHub, RapidAPI, VS Code
