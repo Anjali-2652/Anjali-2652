@@ -6,10 +6,12 @@
 🖇️ linkedIn: https://www.linkedin.com/in/anjali-kumari-gupta/
 
 ## 🚀 Tech Stack
-- 💻 Frontend: React.js, Tailwind CSS, HTML, CSS
-- 🔧 Backend: Django, Django REST Framework
-- 🛢️ Database: MySQL, SQLite
-- 🌐 Tools: Git, GitHub, RapidAPI, VS Code
+- 🌐 Language: JavaScript, Python, C, C++
+- 💻 Frontend: React.js, Tailwind CSS, HTML, CSS, React Native
+- 🔧 Backend: Django, Django REST Framework, NodeJs, ExpressJs
+- 🛢️ Database: MySQL, SQLite, MongoDB
+- 🤖 AI: GenAI
+- ⚙️ Tools: Git, GitHub, RapidAPI, VS Code
 
 
 
