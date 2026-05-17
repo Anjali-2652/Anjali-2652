@@ -1,9 +1,9 @@
 # Hi, I'm Anjali Gupta 👋
 
-🌱 Passionate about building web and mobile applications and diving in the world of AI 
-🎯 Goals: Full-stack development | Clean UI | Scalable backend | Generative AI
-📫 email: guptaanjali2651@gmail.com
-🖇️ linkedIn: https://www.linkedin.com/in/anjali-kumari-gupta/
+-🌱 Passionate about building web and mobile applications and diving in the world of AI 
+-🎯 Goals: Full-stack development | Clean UI | Scalable backend | Generative AI
+-📫 email: guptaanjali2651@gmail.com
+-🖇️ linkedIn: https://www.linkedin.com/in/anjali-kumari-gupta/
 
 ## 🚀 Tech Stack
 - 🌐 Language: JavaScript, Python, C, C++
